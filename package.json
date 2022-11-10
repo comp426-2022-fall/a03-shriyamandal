@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/comp426-2022-fall/a03-shriyamandal/issues"
   },
-  "homepage": "https://github.com/comp426-2022-fall/a03-shriyamandal#readme"
+  "homepage": "https://github.com/comp426-2022-fall/a03-shriyamandal#readme",
+  "dependencies": {
+    "minimist": "^1.2.7"
+  }
 }
