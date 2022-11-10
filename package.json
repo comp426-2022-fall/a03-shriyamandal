@@ -4,7 +4,7 @@
   "description": "package to simulate rolling dice",
   "main": "./lib/roll.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "roll-dice --sides=9 --dice=2 --rolls=5"
   },
   "repository": {
     "type": "git",
